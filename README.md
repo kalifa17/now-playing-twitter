@@ -20,7 +20,7 @@ $ yarn start
 
 ### Screenshots
 
-![N|Solid](https://lh5.googleusercontent.com/QGjc0wtcMxYOysQf6e1ZAPftQuYLQEjBwUlvQutKh1oGZH1VEHmIBS0v-ZYVdnNmecMQ8_TvBzDH8A=w2560-h1324-rw)
+![N|Solid](https://image.ibb.co/eE2tsz/1.png)
 
-![N|Solid](https://lh4.googleusercontent.com/lw-A24A88P8bcCPoeqQdXEx74VnBXt-2ZNum_qj6XFJYsgLvaxCLU-44zrAHcGI1wwRC4YSVU6rK8w=w2560-h1324-rw)
+![N|Solid](https://image.ibb.co/mGwEze/2.png)
 
